@@ -1,0 +1,14 @@
+{
+  "name": "express-rest-starter",
+  "version": "1.0.0",
+  "description": "Production-ready Express REST API starter with auth, logging, and error handling",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
